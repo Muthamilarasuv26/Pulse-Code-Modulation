@@ -72,7 +72,7 @@ plt.show()
 ~~~
 # Output Waveform
 
-<img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/041af21e-851d-4669-85a3-c6ddfd3d2496" />
+<img width="1189" height="990" alt="EXP 2 output" src="https://github.com/user-attachments/assets/844abadd-60e0-47cf-896f-14e926573c31" />
 
 # Results
 Pulse Code Modulation (PCM) as been implemented successfully
